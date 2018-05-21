@@ -18,7 +18,7 @@ code samples for anybody to follow. Honestly, this tutorial is basically the fir
 split into smaller pieces and without the theory.
 
 Updated: more sources: [the little book about OS development](https://littleosbook.github.io),
-[JamesM's kernel development tutorials](http://www.jamesmolloy.co.uk/tutorial_html/index.html)
+[JamesM's kernel development tutorials](https://web.archive.org/web/20160412174753/http://www.jamesmolloy.co.uk/tutorial_html/index.html)
 
 
 Features
@@ -87,5 +87,8 @@ If we feel brave enough:
 Contributing
 ------------
 
-I'm still learning this. For the moment, please restrict your contributions to fixing possible bugs
-or improving existing documents. I'm not yet ready to accept enhancements.
+This is a personal learning project, and even though it hasn't been updated for a long time, I still have hopes to get into it at some point.
+
+I'm thankful to all those who have pointed out bugs and submitted pull requests. I will need some time to review everything and I cannot guarantee that at this moment.
+
+Please feel free to fork this repo. If many of you are interested in continuing the project, let me know and I'll link the "main fork" from here.

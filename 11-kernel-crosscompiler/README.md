@@ -41,7 +41,7 @@ export PATH="$PREFIX/bin:$PATH"
 binutils
 --------
 
-Rember: always be careful before pasting walls of text from the internet. I recommend copying line by line.
+Remember: always be careful before pasting walls of text from the internet. I recommend copying line by line.
 
 ```sh
 mkdir /tmp/src
@@ -58,7 +58,7 @@ gcc
 ---
 ```sh
 cd /tmp/src
-curl -O http://mirror.bbln.org/gcc/releases/gcc-4.9.1/gcc-4.9.1.tar.bz2
+curl -O https://ftp.gnu.org/gnu/gcc/gcc-4.9.1/gcc-4.9.1.tar.bz2
 tar xf gcc-4.9.1.tar.bz2
 mkdir gcc-build
 cd gcc-build
